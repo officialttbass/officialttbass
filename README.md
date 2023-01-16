@@ -8,10 +8,10 @@
 
 👋 Hi, I’m Timothy.
 
-I am a recent college graduate from North Carolina Agricultural & Technical State University. I'm very eager to grow my professional portfolio as I start off on this
-next journey of mine. And, I'm excited for you all to see what I'll have in-store in the future!
+I am a recent college graduate from North Carolina Agricultural & Technical State University. I'm very eager to grow my professional portfolio as I start on this
+next journey of mine.
 
-I'm interested in leaarning more in either of the fields listed below:
+I'm interested in learning more in either of the fields listed below:
 - software development
 - data analytics
 - user experience engineering
